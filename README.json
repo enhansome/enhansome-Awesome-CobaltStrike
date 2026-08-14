@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "0x01 Articles & Videos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cobalt_Strike_wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-03T05:24:51Z",
+            "owner": "aleenzz",
+            "repo": "Cobalt_Strike_wiki",
+            "stars": 2430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cobalt Strike MITRE TTPs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-14T07:15:10Z",
+            "owner": "MichaelKoczwara",
+            "repo": "Awesome-CobaltStrike-Defence",
+            "stars": 1299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cobalt-Strike-CheatSheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-08T10:59:13Z",
+            "owner": "S1ckB0y1337",
+            "repo": "Cobalt-Strike-CheatSheet",
+            "stars": 1137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CobaltStrike4.0笔记",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-03-23T08:47:01Z",
+            "owner": "Snowming04",
+            "repo": "CobaltStrike4.0_related",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cobalt Strike 中文 Wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-16T14:06:05Z",
+            "owner": "XXC385",
+            "repo": "Cobalt-Strike-Start",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red Team Operations with Cobalt Strike (2019)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-16T17:49:48Z",
+            "owner": "martabyte",
+            "repo": "Red-Team-Ops",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "1. Basic Knowledge"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Volatility Plugin for Detecting Cobalt Strike Beacon. blog",
+          "description": "Toolset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-11T14:09:48Z",
+            "owner": "RomanEmelyanov",
+            "repo": "CobaltStrikeForensic",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "分析cobaltstrike c2 协议",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-24T13:58:48Z",
+            "owner": "verctor",
+            "repo": "Cobalt_Homework",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Small tool",
+          "description": "to decrypt a Cobalt Strike auth file",
+          "children": []
+        }
+      ],
+      "title": "5. CobaltStrike Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "0x02 C2 Profiles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "0x03 BOF"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "0x04 Aggressor Script"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "0x05 Related Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "0x06 Related Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:32:39.490Z",
+    "original_repository": "zer0yu/Awesome-CobaltStrike",
+    "original_repository_sha": "f9875c11c71265cf64a2a6d328c76abb20b114a2",
+    "enhanced_repository": "enhansome/enhansome-Awesome-CobaltStrike",
+    "enhanced_repository_description": null,
+    "title": "Awesome CobaltStrike with stars"
+  }
+}
