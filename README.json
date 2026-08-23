@@ -17,7 +17,7 @@
                 "last_commit": "2023-12-03T05:24:51Z",
                 "owner": "aleenzz",
                 "repo": "Cobalt_Strike_wiki",
-                "stars": 2428
+                "stars": 2429
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-07-14T07:15:10Z",
                 "owner": "MichaelKoczwara",
                 "repo": "Awesome-CobaltStrike-Defence",
-                "stars": 1299
+                "stars": 1300
               }
             },
             {
@@ -142,7 +142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:30:09.581Z",
+    "last_updated": "2026-08-23T03:38:11.138Z",
     "original_repository": "zer0yu/Awesome-CobaltStrike",
     "original_repository_id": 287713897,
     "original_repository_sha": "f9875c11c71265cf64a2a6d328c76abb20b114a2",
