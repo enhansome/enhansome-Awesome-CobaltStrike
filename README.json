@@ -17,7 +17,7 @@
                 "last_commit": "2023-12-03T05:24:51Z",
                 "owner": "aleenzz",
                 "repo": "Cobalt_Strike_wiki",
-                "stars": 2428
+                "stars": 2429
               }
             },
             {
@@ -686,7 +686,7 @@
             "last_commit": "2025-07-21T16:43:25Z",
             "owner": "trustedsec",
             "repo": "COFFLoader",
-            "stars": 650
+            "stars": 651
           }
         },
         {
@@ -2081,7 +2081,7 @@
             "last_commit": "2026-01-20T20:08:48Z",
             "owner": "mertdas",
             "repo": "PrivKit",
-            "stars": 610
+            "stars": 611
           }
         },
         {
@@ -2747,7 +2747,7 @@
             "last_commit": "2020-11-12T08:29:11Z",
             "owner": "uknowsec",
             "repo": "TailorScan",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -3002,7 +3002,7 @@
             "last_commit": "2022-09-03T17:48:42Z",
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3341
+            "stars": 3342
           }
         },
         {
@@ -4022,7 +4022,7 @@
             "last_commit": "2022-09-09T15:47:49Z",
             "owner": "bluscreenofjeff",
             "repo": "AggressorScripts",
-            "stars": 896
+            "stars": 897
           }
         },
         {
@@ -6113,7 +6113,7 @@
             "last_commit": "2023-02-13T17:04:16Z",
             "owner": "Cobalt-Strike",
             "repo": "CallStackMasker",
-            "stars": 315
+            "stars": 316
           }
         }
       ],
@@ -6131,7 +6131,7 @@
             "archived": false,
             "id": 189243571,
             "language": "REXX",
-            "last_commit": "2026-08-24T13:13:22Z",
+            "last_commit": "2026-08-25T03:18:55Z",
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
             "stars": 740
@@ -6202,7 +6202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:08.121Z",
+    "last_updated": "2026-08-25T03:36:35.820Z",
     "original_repository": "zer0yu/Awesome-CobaltStrike",
     "original_repository_id": 287713897,
     "original_repository_sha": "f9875c11c71265cf64a2a6d328c76abb20b114a2",
