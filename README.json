@@ -5138,7 +5138,7 @@
             "last_commit": "2026-02-11T03:48:54Z",
             "owner": "aeverj",
             "repo": "NimShellCodeLoader",
-            "stars": 705
+            "stars": 706
           }
         },
         {
@@ -6124,14 +6124,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "DATA",
-          "description": "C2IntelFeeds Automatically created C2 Feeds based of Censys",
+          "title": "C2IntelFeeds",
+          "description": "Automatically created C2 Feeds based of Censys",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 189243571,
             "language": "REXX",
-            "last_commit": "2026-08-25T03:18:55Z",
+            "last_commit": "2026-08-25T05:34:49Z",
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
             "stars": 740
@@ -6202,7 +6202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:36:35.820Z",
+    "last_updated": "2026-08-25T05:51:07.703Z",
     "original_repository": "zer0yu/Awesome-CobaltStrike",
     "original_repository_id": 287713897,
     "original_repository_sha": "f9875c11c71265cf64a2a6d328c76abb20b114a2",
