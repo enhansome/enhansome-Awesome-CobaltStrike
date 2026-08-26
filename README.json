@@ -155,7 +155,7 @@
             "last_commit": "2021-05-18T14:45:39Z",
             "owner": "rsmudge",
             "repo": "Malleable-C2-Profiles",
-            "stars": 1592
+            "stars": 1593
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2025-04-16T17:15:04Z",
             "owner": "Tylous",
             "repo": "SourcePoint",
-            "stars": 1219
+            "stars": 1220
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2022-05-16T17:48:40Z",
             "owner": "trustedsec",
             "repo": "ELFLoader",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -806,7 +806,7 @@
             "last_commit": "2023-03-08T15:55:24Z",
             "owner": "boku7",
             "repo": "halosgate-ps",
-            "stars": 108
+            "stars": 109
           }
         },
         {
@@ -1511,7 +1511,7 @@
             "last_commit": "2024-09-17T22:58:11Z",
             "owner": "fortra",
             "repo": "nanodump",
-            "stars": 2136
+            "stars": 2137
           }
         },
         {
@@ -2462,7 +2462,7 @@
             "last_commit": "2024-02-03T19:11:05Z",
             "owner": "phra",
             "repo": "PEzor",
-            "stars": 2126
+            "stars": 2127
           }
         },
         {
@@ -2792,7 +2792,7 @@
             "last_commit": "2025-03-24T13:53:59Z",
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5319
+            "stars": 5320
           }
         },
         {
@@ -3002,7 +3002,7 @@
             "last_commit": "2022-09-03T17:48:42Z",
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3342
+            "stars": 3343
           }
         },
         {
@@ -4202,7 +4202,7 @@
             "last_commit": "2025-11-24T06:20:21Z",
             "owner": "pandasec888",
             "repo": "taowu-cobalt_strike",
-            "stars": 1834
+            "stars": 1835
           }
         },
         {
@@ -4247,7 +4247,7 @@
             "last_commit": "2022-11-22T21:39:08Z",
             "owner": "QAX-A-Team",
             "repo": "CobaltStrike-Toolset",
-            "stars": 592
+            "stars": 593
           }
         },
         {
@@ -5348,7 +5348,7 @@
             "last_commit": "2025-04-18T08:36:17Z",
             "owner": "Pizz33",
             "repo": "GobypassAV-shellcode",
-            "stars": 933
+            "stars": 932
           }
         },
         {
@@ -6131,7 +6131,7 @@
             "archived": false,
             "id": 189243571,
             "language": "REXX",
-            "last_commit": "2026-08-25T05:34:49Z",
+            "last_commit": "2026-08-26T03:04:23Z",
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
             "stars": 740
@@ -6194,7 +6194,7 @@
             "last_commit": "2023-07-08T08:10:42Z",
             "owner": "al0ne",
             "repo": "suricata-rules",
-            "stars": 1282
+            "stars": 1283
           }
         }
       ],
@@ -6202,7 +6202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:07.703Z",
+    "last_updated": "2026-08-26T03:41:08.948Z",
     "original_repository": "zer0yu/Awesome-CobaltStrike",
     "original_repository_id": 287713897,
     "original_repository_sha": "f9875c11c71265cf64a2a6d328c76abb20b114a2",
