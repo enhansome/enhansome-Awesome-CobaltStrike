@@ -17,7 +17,7 @@
                 "last_commit": "2023-12-03T05:24:51Z",
                 "owner": "aleenzz",
                 "repo": "Cobalt_Strike_wiki",
-                "stars": 2429
+                "stars": 2430
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-07-14T07:15:10Z",
                 "owner": "MichaelKoczwara",
                 "repo": "Awesome-CobaltStrike-Defence",
-                "stars": 1300
+                "stars": 1301
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2022-02-08T10:59:13Z",
                 "owner": "S1ckB0y1337",
                 "repo": "Cobalt-Strike-CheatSheet",
-                "stars": 1137
+                "stars": 1138
               }
             },
             {
@@ -215,7 +215,7 @@
             "last_commit": "2023-01-05T21:17:00Z",
             "owner": "threatexpress",
             "repo": "random_c2_profile",
-            "stars": 689
+            "stars": 690
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-04-13T19:51:05Z",
             "owner": "RedSiege",
             "repo": "C2concealer",
-            "stars": 1124
+            "stars": 1125
           }
         },
         {
@@ -536,7 +536,7 @@
             "last_commit": "2026-07-20T16:51:29Z",
             "owner": "trustedsec",
             "repo": "CS-Remote-OPs-BOF",
-            "stars": 1182
+            "stars": 1183
           }
         },
         {
@@ -1556,7 +1556,7 @@
             "last_commit": "2022-02-23T07:17:38Z",
             "owner": "netero1010",
             "repo": "ServiceMove-BOF",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -1571,7 +1571,7 @@
             "last_commit": "2021-07-22T20:13:16Z",
             "owner": "xforcered",
             "repo": "Detect-Hooks",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -1871,7 +1871,7 @@
             "last_commit": "2024-04-29T19:08:52Z",
             "owner": "Mr-Un1k0d3r",
             "repo": "Cookie-and-Handle-Stealer",
-            "stars": 212
+            "stars": 213
           }
         },
         {
@@ -2081,7 +2081,7 @@
             "last_commit": "2026-01-20T20:08:48Z",
             "owner": "mertdas",
             "repo": "PrivKit",
-            "stars": 611
+            "stars": 612
           }
         },
         {
@@ -2156,7 +2156,7 @@
             "last_commit": "2023-08-27T18:27:50Z",
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1289
+            "stars": 1290
           }
         },
         {
@@ -2171,7 +2171,7 @@
             "last_commit": "2023-11-22T22:25:50Z",
             "owner": "boku7",
             "repo": "BokuLoader",
-            "stars": 1431
+            "stars": 1433
           }
         },
         {
@@ -2462,7 +2462,7 @@
             "last_commit": "2024-02-03T19:11:05Z",
             "owner": "phra",
             "repo": "PEzor",
-            "stars": 2127
+            "stars": 2129
           }
         },
         {
@@ -2537,7 +2537,7 @@
             "last_commit": "2023-01-04T15:42:25Z",
             "owner": "NVISOsecurity",
             "repo": "CobaltWhispers",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -2672,7 +2672,7 @@
             "last_commit": "2020-08-17T23:19:49Z",
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13086
+            "stars": 13085
           }
         },
         {
@@ -2702,7 +2702,7 @@
             "last_commit": "2020-08-17T23:19:49Z",
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13086
+            "stars": 13085
           }
         },
         {
@@ -3002,7 +3002,7 @@
             "last_commit": "2022-09-03T17:48:42Z",
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3343
+            "stars": 3344
           }
         },
         {
@@ -3962,7 +3962,7 @@
             "last_commit": "2021-10-28T06:20:51Z",
             "owner": "DeEpinGh0st",
             "repo": "Erebus",
-            "stars": 1568
+            "stars": 1569
           }
         },
         {
@@ -5078,7 +5078,7 @@
             "last_commit": "2022-08-16T02:58:39Z",
             "owner": "tanc7",
             "repo": "EXOCET-AV-Evasion",
-            "stars": 838
+            "stars": 837
           }
         },
         {
@@ -5258,7 +5258,7 @@
             "last_commit": "2023-08-27T18:27:50Z",
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1289
+            "stars": 1290
           }
         },
         {
@@ -6131,10 +6131,10 @@
             "archived": false,
             "id": 189243571,
             "language": "REXX",
-            "last_commit": "2026-08-26T03:04:23Z",
+            "last_commit": "2026-08-27T11:19:37Z",
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
-            "stars": 740
+            "stars": 742
           }
         },
         {
@@ -6149,7 +6149,7 @@
             "last_commit": "2026-08-03T07:00:36Z",
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3012
+            "stars": 3015
           }
         },
         {
@@ -6164,7 +6164,7 @@
             "last_commit": "2026-08-03T07:00:36Z",
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3012
+            "stars": 3015
           }
         },
         {
@@ -6202,9 +6202,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:41:08.948Z",
-    "original_repository": "zer0yu/Awesome-CobaltStrike",
-    "original_repository_id": 287713897,
+    "last_updated": "2026-08-27T11:23:15.893Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 287713897,
+      "language": null,
+      "last_commit": "2023-09-20T12:55:32Z",
+      "owner": "zer0yu",
+      "repo": "Awesome-CobaltStrike",
+      "stars": 4437
+    },
     "original_repository_sha": "f9875c11c71265cf64a2a6d328c76abb20b114a2",
     "enhanced_repository": "enhansome/enhansome-Awesome-CobaltStrike",
     "enhanced_repository_description": null,
