@@ -403,7 +403,7 @@
             "open_issues": 0,
             "owner": "xx0hcd",
             "repo": "Malleable-C2-Profiles",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "cobalt-strike",
               "malleable-c2",
@@ -1255,7 +1255,7 @@
             "open_issues": 3,
             "owner": "Cobalt-Strike",
             "repo": "bof-vs",
-            "stars": 291,
+            "stars": 292,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1803,7 +1803,7 @@
             "open_issues": 1,
             "owner": "Mr-Un1k0d3r",
             "repo": "SCShell",
-            "stars": 1657,
+            "stars": 1658,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4428,7 +4428,7 @@
             "open_issues": 15,
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3347,
+            "stars": 3349,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6003,7 +6003,7 @@
             "open_issues": 2,
             "owner": "mgeeky",
             "repo": "cobalt-arsenal",
-            "stars": 1107,
+            "stars": 1108,
             "topics": [
               "aggressor-scripts",
               "beacon",
@@ -6093,7 +6093,7 @@
             "open_issues": 3,
             "owner": "harleyQu1nn",
             "repo": "AggressorScripts",
-            "stars": 1530,
+            "stars": 1528,
             "topics": [
               "aggressor",
               "aggressor-scripts",
@@ -6360,7 +6360,7 @@
             "open_issues": 2,
             "owner": "mgeeky",
             "repo": "cobalt-arsenal",
-            "stars": 1107,
+            "stars": 1108,
             "topics": [
               "aggressor-scripts",
               "beacon",
@@ -6698,7 +6698,7 @@
             "open_issues": 5,
             "owner": "lintstar",
             "repo": "LSTAR",
-            "stars": 1267,
+            "stars": 1266,
             "topics": [
               "aggressor-scripts",
               "attack",
@@ -6998,7 +6998,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-13T17:58:03Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "salesforce",
             "repo": "jarm",
             "stars": 1316,
@@ -7889,7 +7889,7 @@
             "open_issues": 0,
             "owner": "mgeeky",
             "repo": "ThreadStackSpoofer",
-            "stars": 1243,
+            "stars": 1244,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8021,7 +8021,7 @@
             "open_issues": 0,
             "owner": "Ridter",
             "repo": "cs_custom_404",
-            "stars": 68,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8559,7 +8559,7 @@
             "open_issues": 2,
             "owner": "mgeeky",
             "repo": "ElusiveMice",
-            "stars": 494,
+            "stars": 495,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9071,7 +9071,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T05:07:47Z",
+            "last_commit": "2026-09-01T05:05:39Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9103,11 +9103,11 @@
             "id": 51743885,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-03T07:00:36Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-31T19:47:24Z",
+            "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3015,
+            "stars": 3016,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9135,11 +9135,11 @@
             "id": 51743885,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-03T07:00:36Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-31T19:47:24Z",
+            "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3015,
+            "stars": 3016,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9192,7 +9192,7 @@
             "open_issues": 0,
             "owner": "al0ne",
             "repo": "suricata-rules",
-            "stars": 1283,
+            "stars": 1284,
             "topics": [
               "ids",
               "security",
@@ -9208,7 +9208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:55:46.659Z",
+    "last_updated": "2026-09-01T07:59:47.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
