@@ -403,7 +403,7 @@
             "open_issues": 0,
             "owner": "xx0hcd",
             "repo": "Malleable-C2-Profiles",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "cobalt-strike",
               "malleable-c2",
@@ -640,7 +640,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1872,
+            "stars": 1873,
             "topics": [
               "bof",
               "c",
@@ -972,7 +972,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1872,
+            "stars": 1873,
             "topics": [
               "bof",
               "c",
@@ -2205,7 +2205,7 @@
             "open_issues": 0,
             "owner": "fortra",
             "repo": "nanodump",
-            "stars": 2138,
+            "stars": 2139,
             "topics": [
               "bof",
               "cna",
@@ -2420,7 +2420,7 @@
             "open_issues": 1,
             "owner": "nettitude",
             "repo": "RunOF",
-            "stars": 154,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2719,7 +2719,7 @@
             "open_issues": 0,
             "owner": "Mr-Un1k0d3r",
             "repo": "Cookie-and-Handle-Stealer",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3579,7 +3579,7 @@
             "open_issues": 9,
             "owner": "phra",
             "repo": "PEzor",
-            "stars": 2132,
+            "stars": 2133,
             "topics": [
               "antivirus-evasion",
               "hacktoberfest",
@@ -4081,7 +4081,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5323,
+            "stars": 5324,
             "topics": [
               "brute-force",
               "exp",
@@ -7001,7 +7001,7 @@
             "open_issues": 15,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1318,
+            "stars": 1319,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7510,7 +7510,7 @@
             "open_issues": 5,
             "owner": "tanc7",
             "repo": "EXOCET-AV-Evasion",
-            "stars": 835,
+            "stars": 838,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T05:01:04Z",
+            "last_commit": "2026-09-06T05:00:20Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:07:48.127Z",
+    "last_updated": "2026-09-06T07:19:28.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
