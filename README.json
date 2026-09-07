@@ -262,7 +262,7 @@
             "open_issues": 4,
             "owner": "threatexpress",
             "repo": "malleable-c2",
-            "stars": 1766,
+            "stars": 1767,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -592,7 +592,7 @@
             "open_issues": 2,
             "owner": "WKL-Sec",
             "repo": "Malleable-CS-Profiles",
-            "stars": 541,
+            "stars": 542,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -735,7 +735,7 @@
             "open_issues": 0,
             "owner": "EncodeGroup",
             "repo": "BOF-RegSave",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "beacon",
               "bof",
@@ -3896,7 +3896,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13085,
+            "stars": 13086,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3938,7 +3938,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13085,
+            "stars": 13086,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4081,7 +4081,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5324,
+            "stars": 5323,
             "topics": [
               "brute-force",
               "exp",
@@ -5448,7 +5448,7 @@
             "open_issues": 0,
             "owner": "capt-meelo",
             "repo": "Beaconator",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5606,7 +5606,7 @@
             "open_issues": 2,
             "owner": "med0x2e",
             "repo": "ExecuteAssembly",
-            "stars": 598,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5854,10 +5854,10 @@
             "language": "PowerShell",
             "license": "GPL-3.0",
             "last_commit": "2021-10-28T06:20:51Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "DeEpinGh0st",
             "repo": "Erebus",
-            "stars": 1570,
+            "stars": 1571,
             "topics": [
               "cobaltstrike"
             ]
@@ -6816,7 +6816,7 @@
             "open_issues": 0,
             "owner": "fox-it",
             "repo": "dissect.cobaltstrike",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -7152,7 +7152,7 @@
             "open_issues": 0,
             "owner": "huoji120",
             "repo": "DuckMemoryScan",
-            "stars": 732,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8550,7 +8550,7 @@
             "open_issues": 1,
             "owner": "inspiringz",
             "repo": "GoFileBinder",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8829,7 +8829,7 @@
             "open_issues": 1,
             "owner": "obscuritylabs",
             "repo": "RAI",
-            "stars": 310,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T05:00:20Z",
+            "last_commit": "2026-09-07T05:02:19Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:19:28.380Z",
+    "last_updated": "2026-09-07T07:34:01.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
