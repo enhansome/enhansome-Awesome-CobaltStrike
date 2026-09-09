@@ -353,7 +353,7 @@
             "open_issues": 0,
             "owner": "RedSiege",
             "repo": "C2concealer",
-            "stars": 1125,
+            "stars": 1126,
             "topics": [
               "cobalt-strike",
               "cobaltstrike",
@@ -640,7 +640,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1874,
+            "stars": 1875,
             "topics": [
               "bof",
               "c",
@@ -821,7 +821,7 @@
             "id": 598006000,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-07-16T08:35:08Z",
+            "last_commit": "2026-09-09T06:37:14Z",
             "open_issues": 0,
             "owner": "REDMED-X",
             "repo": "OperatorsKit",
@@ -972,7 +972,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1874,
+            "stars": 1875,
             "topics": [
               "bof",
               "c",
@@ -3027,7 +3027,7 @@
             "open_issues": 0,
             "owner": "mertdas",
             "repo": "PrivKit",
-            "stars": 617,
+            "stars": 618,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3153,7 +3153,7 @@
             "open_issues": 5,
             "owner": "boku7",
             "repo": "BokuLoader",
-            "stars": 1437,
+            "stars": 1436,
             "topics": [
               "advsim",
               "boku",
@@ -4121,7 +4121,7 @@
             "open_issues": 21,
             "owner": "k8gege",
             "repo": "Aggressor",
-            "stars": 1070,
+            "stars": 1071,
             "topics": [
               "aggressor-scripts",
               "brute-force",
@@ -5160,7 +5160,7 @@
             "open_issues": 0,
             "owner": "seventeenman",
             "repo": "CallBackDump",
-            "stars": 559,
+            "stars": 558,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5511,7 +5511,7 @@
             "open_issues": 6,
             "owner": "bitsadmin",
             "repo": "fakelogonscreen",
-            "stars": 1377,
+            "stars": 1376,
             "topics": [
               "cobaltstrike",
               "fake",
@@ -6980,7 +6980,7 @@
             "open_issues": 1,
             "owner": "cedowens",
             "repo": "C2-JARM",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7001,7 +7001,7 @@
             "open_issues": 15,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1319,
+            "stars": 1321,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7817,7 +7817,7 @@
             "open_issues": 1,
             "owner": "mgeeky",
             "repo": "ShellcodeFluctuation",
-            "stars": 1130,
+            "stars": 1131,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8481,7 +8481,7 @@
             "open_issues": 1,
             "owner": "fortalice",
             "repo": "bofhound",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "active-directory",
               "bloodhound",
@@ -8550,7 +8550,7 @@
             "open_issues": 1,
             "owner": "inspiringz",
             "repo": "GoFileBinder",
-            "stars": 166,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T05:03:21Z",
+            "last_commit": "2026-09-09T05:03:37Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9073,7 +9073,7 @@
             "id": 51743885,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T19:47:24Z",
+            "last_commit": "2026-09-08T07:50:51Z",
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "signature-base",
@@ -9105,7 +9105,7 @@
             "id": 51743885,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T19:47:24Z",
+            "last_commit": "2026-09-08T07:50:51Z",
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "signature-base",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:27:09.725Z",
+    "last_updated": "2026-09-09T07:35:13.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9190,7 +9190,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4435,
+      "stars": 4436,
       "topics": [
         "cobalt-strike",
         "redteam",
