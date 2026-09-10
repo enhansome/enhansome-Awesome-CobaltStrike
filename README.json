@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "aleenzz",
                 "repo": "Cobalt_Strike_wiki",
-                "stars": 2433,
+                "stars": 2434,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:42.747Z"
@@ -640,7 +640,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1875,
+            "stars": 1877,
             "topics": [
               "bof",
               "c",
@@ -972,7 +972,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1875,
+            "stars": 1877,
             "topics": [
               "bof",
               "c",
@@ -1803,7 +1803,7 @@
             "open_issues": 1,
             "owner": "Mr-Un1k0d3r",
             "repo": "SCShell",
-            "stars": 1663,
+            "stars": 1664,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2814,7 +2814,7 @@
             "open_issues": 5,
             "owner": "WKL-Sec",
             "repo": "HiddenDesktop",
-            "stars": 1344,
+            "stars": 1345,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3579,7 +3579,7 @@
             "open_issues": 9,
             "owner": "phra",
             "repo": "PEzor",
-            "stars": 2133,
+            "stars": 2134,
             "topics": [
               "antivirus-evasion",
               "hacktoberfest",
@@ -4081,7 +4081,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5323,
+            "stars": 5324,
             "topics": [
               "brute-force",
               "exp",
@@ -4237,7 +4237,7 @@
             "open_issues": 41,
             "owner": "gloxec",
             "repo": "CrossC2",
-            "stars": 2571,
+            "stars": 2574,
             "topics": [
               "android",
               "cobalt-strike",
@@ -4428,7 +4428,7 @@
             "open_issues": 15,
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3353,
+            "stars": 3354,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5857,7 +5857,7 @@
             "open_issues": 9,
             "owner": "DeEpinGh0st",
             "repo": "Erebus",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "cobaltstrike"
             ]
@@ -6093,7 +6093,7 @@
             "open_issues": 3,
             "owner": "harleyQu1nn",
             "repo": "AggressorScripts",
-            "stars": 1528,
+            "stars": 1529,
             "topics": [
               "aggressor",
               "aggressor-scripts",
@@ -6226,7 +6226,7 @@
             "open_issues": 3,
             "owner": "pandasec888",
             "repo": "taowu-cobalt_strike",
-            "stars": 1836,
+            "stars": 1837,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7236,7 +7236,7 @@
             "open_issues": 4,
             "owner": "CCob",
             "repo": "BeaconEye",
-            "stars": 964,
+            "stars": 963,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T05:03:37Z",
+            "last_commit": "2026-09-10T05:07:13Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9077,7 +9077,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3021,
+            "stars": 3023,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9109,7 +9109,7 @@
             "open_issues": 14,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3021,
+            "stars": 3023,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:35:13.783Z",
+    "last_updated": "2026-09-10T07:31:33.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9190,7 +9190,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4436,
+      "stars": 4437,
       "topics": [
         "cobalt-strike",
         "redteam",
