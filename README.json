@@ -640,7 +640,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1878,
+            "stars": 1882,
             "topics": [
               "bof",
               "c",
@@ -972,7 +972,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1878,
+            "stars": 1882,
             "topics": [
               "bof",
               "c",
@@ -1018,7 +1018,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "COFFLoader",
-            "stars": 652,
+            "stars": 653,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2504,7 +2504,7 @@
             "open_issues": 2,
             "owner": "GhostPack",
             "repo": "Koh",
-            "stars": 521,
+            "stars": 522,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2635,7 +2635,7 @@
             "open_issues": 0,
             "owner": "Octoberfest7",
             "repo": "Inline-Execute-PE",
-            "stars": 724,
+            "stars": 723,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2814,7 +2814,7 @@
             "open_issues": 5,
             "owner": "WKL-Sec",
             "repo": "HiddenDesktop",
-            "stars": 1345,
+            "stars": 1344,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3132,7 +3132,7 @@
             "open_issues": 5,
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1293,
+            "stars": 1294,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3312,7 +3312,7 @@
             "open_issues": 1,
             "owner": "k8gege",
             "repo": "scrun",
-            "stars": 179,
+            "stars": 178,
             "topics": [
               "bypass-av",
               "bypassantivirus",
@@ -3715,10 +3715,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2024-06-04T16:45:42Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "kyleavery",
             "repo": "AceLdr",
-            "stars": 1032,
+            "stars": 1033,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3896,7 +3896,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13087,
+            "stars": 13085,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3938,7 +3938,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13087,
+            "stars": 13085,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6581,7 +6581,7 @@
             "open_issues": 1,
             "owner": "wafinfo",
             "repo": "cobaltstrike",
-            "stars": 181,
+            "stars": 180,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7775,7 +7775,7 @@
             "open_issues": 5,
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1293,
+            "stars": 1294,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T05:07:07Z",
+            "last_commit": "2026-09-12T05:11:21Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9074,10 +9074,10 @@
             "language": "YARA",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T07:50:51Z",
-            "open_issues": 14,
+            "open_issues": 16,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3024,
+            "stars": 3025,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9106,10 +9106,10 @@
             "language": "YARA",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T07:50:51Z",
-            "open_issues": 14,
+            "open_issues": 16,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3024,
+            "stars": 3025,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:30:02.164Z",
+    "last_updated": "2026-09-12T07:21:52.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
