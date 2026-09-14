@@ -69,7 +69,7 @@
                 "open_issues": 0,
                 "owner": "S1ckB0y1337",
                 "repo": "Cobalt-Strike-CheatSheet",
-                "stars": 1135,
+                "stars": 1136,
                 "topics": [
                   "c2",
                   "cheatsheet",
@@ -640,7 +640,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1884,
+            "stars": 1885,
             "topics": [
               "bof",
               "c",
@@ -804,7 +804,7 @@
             "open_issues": 2,
             "owner": "trustedsec",
             "repo": "CS-Remote-OPs-BOF",
-            "stars": 1184,
+            "stars": 1185,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -972,7 +972,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1884,
+            "stars": 1885,
             "topics": [
               "bof",
               "c",
@@ -1803,7 +1803,7 @@
             "open_issues": 1,
             "owner": "Mr-Un1k0d3r",
             "repo": "SCShell",
-            "stars": 1665,
+            "stars": 1666,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2034,7 +2034,7 @@
             "open_issues": 1,
             "owner": "airbus-cert",
             "repo": "Invoke-Bof",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "cobalt-strike",
               "powershell"
@@ -3132,7 +3132,7 @@
             "open_issues": 5,
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1294,
+            "stars": 1293,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3718,7 +3718,7 @@
             "open_issues": 4,
             "owner": "kyleavery",
             "repo": "AceLdr",
-            "stars": 1033,
+            "stars": 1035,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4081,7 +4081,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5324,
+            "stars": 5325,
             "topics": [
               "brute-force",
               "exp",
@@ -4428,7 +4428,7 @@
             "open_issues": 15,
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3356,
+            "stars": 3358,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7775,7 +7775,7 @@
             "open_issues": 5,
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1294,
+            "stars": 1293,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T05:14:56Z",
+            "last_commit": "2026-09-14T05:21:49Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9074,7 +9074,7 @@
             "language": "YARA",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T07:50:51Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Neo23x0",
             "repo": "signature-base",
             "stars": 3027,
@@ -9106,7 +9106,7 @@
             "language": "YARA",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T07:50:51Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Neo23x0",
             "repo": "signature-base",
             "stars": 3027,
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:41:01.389Z",
+    "last_updated": "2026-09-14T08:07:44.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9190,7 +9190,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4440,
+      "stars": 4442,
       "topics": [
         "cobalt-strike",
         "redteam",
