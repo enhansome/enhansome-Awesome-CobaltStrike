@@ -428,7 +428,7 @@
             "open_issues": 2,
             "owner": "byt3bl33d3r",
             "repo": "pyMalleableC2",
-            "stars": 290,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -481,7 +481,7 @@
           "description": "CobaltNotion A spin-off research project. Cobalt Strike x Notion collab 2022.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A spin-off research project. Cobalt Strike x Notion collab 2022",
             "homepage": null,
             "id": 478718971,
@@ -592,7 +592,7 @@
             "open_issues": 2,
             "owner": "WKL-Sec",
             "repo": "Malleable-CS-Profiles",
-            "stars": 539,
+            "stars": 540,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -619,7 +619,7 @@
             "open_issues": 1,
             "owner": "rvrsh3ll",
             "repo": "BOF_Collection",
-            "stars": 786,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1015,10 +1015,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T18:58:04Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "trustedsec",
             "repo": "COFFLoader",
-            "stars": 655,
+            "stars": 656,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2205,7 +2205,7 @@
             "open_issues": 0,
             "owner": "fortra",
             "repo": "nanodump",
-            "stars": 2139,
+            "stars": 2138,
             "topics": [
               "bof",
               "cna",
@@ -2814,7 +2814,7 @@
             "open_issues": 5,
             "owner": "WKL-Sec",
             "repo": "HiddenDesktop",
-            "stars": 1344,
+            "stars": 1345,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3090,7 +3090,7 @@
             "open_issues": 0,
             "owner": "N4kedTurtle",
             "repo": "PersistBOF",
-            "stars": 296,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3697,7 +3697,7 @@
             "open_issues": 1,
             "owner": "NVISOsecurity",
             "repo": "CobaltWhispers",
-            "stars": 241,
+            "stars": 242,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3808,7 +3808,7 @@
             "open_issues": 1,
             "owner": "b1tg",
             "repo": "cobaltstrike-beacon-rust",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -3980,7 +3980,7 @@
             "open_issues": 9,
             "owner": "Adminisme",
             "repo": "ServerScan",
-            "stars": 1658,
+            "stars": 1657,
             "topics": [
               "cobalt-strike",
               "golang",
@@ -4121,7 +4121,7 @@
             "open_issues": 21,
             "owner": "k8gege",
             "repo": "Aggressor",
-            "stars": 1072,
+            "stars": 1071,
             "topics": [
               "aggressor-scripts",
               "brute-force",
@@ -4237,7 +4237,7 @@
             "open_issues": 41,
             "owner": "gloxec",
             "repo": "CrossC2",
-            "stars": 2572,
+            "stars": 2571,
             "topics": [
               "android",
               "cobalt-strike",
@@ -4564,7 +4564,7 @@
             "open_issues": 1,
             "owner": "crisprss",
             "repo": "PrintSpoofer",
-            "stars": 86,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5971,7 +5971,7 @@
             "open_issues": 1,
             "owner": "lengjibo",
             "repo": "RedTeamTools",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "bypass360",
               "bypassav",
@@ -6226,7 +6226,7 @@
             "open_issues": 3,
             "owner": "pandasec888",
             "repo": "taowu-cobalt_strike",
-            "stars": 1837,
+            "stars": 1836,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6698,7 +6698,7 @@
             "open_issues": 5,
             "owner": "lintstar",
             "repo": "LSTAR",
-            "stars": 1266,
+            "stars": 1265,
             "topics": [
               "aggressor-scripts",
               "attack",
@@ -6816,7 +6816,7 @@
             "open_issues": 0,
             "owner": "fox-it",
             "repo": "dissect.cobaltstrike",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -8096,7 +8096,7 @@
             "open_issues": 0,
             "owner": "Verizon",
             "repo": "redshell",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8434,7 +8434,7 @@
             "open_issues": 6,
             "owner": "outflanknl",
             "repo": "Dumpert",
-            "stars": 1595,
+            "stars": 1596,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T04:59:29Z",
+            "last_commit": "2026-09-20T05:09:40Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:33:36.937Z",
+    "last_updated": "2026-09-20T07:56:00.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9190,7 +9190,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4446,
+      "stars": 4447,
       "topics": [
         "cobalt-strike",
         "redteam",
