@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Cobalt_Strike_wiki",
-              "description": null,
+              "description": "aleenzz/Cobalt_Strike_wiki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "aleenzz",
                 "repo": "Cobalt_Strike_wiki",
-                "stars": 2434,
+                "stars": 2433,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:42.747Z"
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Cobalt Strike MITRE TTPs",
-              "description": null,
+              "description": "MichaelKoczwara/Awesome-CobaltStrike-Defence",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -56,7 +56,7 @@
             {
               "node_type": "item",
               "title": "Cobalt-Strike-CheatSheet",
-              "description": null,
+              "description": "S1ckB0y1337/Cobalt-Strike-CheatSheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -84,7 +84,7 @@
             {
               "node_type": "item",
               "title": "CobaltStrike4.0笔记",
-              "description": null,
+              "description": "Snowming04/CobaltStrike4.0_related",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -105,7 +105,7 @@
             {
               "node_type": "item",
               "title": "Cobalt Strike 中文 Wiki",
-              "description": null,
+              "description": "XXC385/Cobalt-Strike-Start",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -126,7 +126,7 @@
             {
               "node_type": "item",
               "title": "Red Team Operations with Cobalt Strike (2019)",
-              "description": null,
+              "description": "martabyte/Red-Team-Ops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,7 +175,7 @@
             {
               "node_type": "item",
               "title": "分析cobaltstrike c2 协议",
-              "description": null,
+              "description": "verctor/Cobalt_Homework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -262,7 +262,7 @@
             "open_issues": 4,
             "owner": "threatexpress",
             "repo": "malleable-c2",
-            "stars": 1765,
+            "stars": 1764,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -283,7 +283,7 @@
             "open_issues": 0,
             "owner": "BC-SECURITY",
             "repo": "Malleable-C2-Profiles",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "cobalt-strike",
               "cobaltstrike",
@@ -311,7 +311,7 @@
             "open_issues": 0,
             "owner": "threatexpress",
             "repo": "random_c2_profile",
-            "stars": 690,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -428,7 +428,7 @@
             "open_issues": 2,
             "owner": "byt3bl33d3r",
             "repo": "pyMalleableC2",
-            "stars": 289,
+            "stars": 290,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -449,7 +449,7 @@
             "open_issues": 0,
             "owner": "1135",
             "repo": "1135-CobaltStrike-ToolKit",
-            "stars": 149,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -804,7 +804,7 @@
             "open_issues": 2,
             "owner": "trustedsec",
             "repo": "CS-Remote-OPs-BOF",
-            "stars": 1191,
+            "stars": 1190,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -825,7 +825,7 @@
             "open_issues": 0,
             "owner": "REDMED-X",
             "repo": "OperatorsKit",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -846,7 +846,7 @@
             "open_issues": 0,
             "owner": "nccgroup",
             "repo": "nccfsas",
-            "stars": 609,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -930,7 +930,7 @@
             "open_issues": 1,
             "owner": "outflanknl",
             "repo": "InlineWhispers",
-            "stars": 322,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -951,7 +951,7 @@
             "open_issues": 4,
             "owner": "outflanknl",
             "repo": "WdToggle",
-            "stars": 218,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1614,7 +1614,7 @@
             "open_issues": 4,
             "owner": "anthemtotheego",
             "repo": "InlineExecute-Assembly",
-            "stars": 770,
+            "stars": 769,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2142,7 +2142,7 @@
             "open_issues": 0,
             "owner": "boku7",
             "repo": "injectEtwBypass",
-            "stars": 299,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2205,7 +2205,7 @@
             "open_issues": 0,
             "owner": "fortra",
             "repo": "nanodump",
-            "stars": 2140,
+            "stars": 2139,
             "topics": [
               "bof",
               "cna",
@@ -2231,7 +2231,7 @@
             "open_issues": 0,
             "owner": "boku7",
             "repo": "xPipe",
-            "stars": 97,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2294,7 +2294,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "Detect-Hooks",
-            "stars": 102,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2546,7 +2546,7 @@
             "open_issues": 0,
             "owner": "Octoberfest7",
             "repo": "KDStab",
-            "stars": 170,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2814,7 +2814,7 @@
             "open_issues": 5,
             "owner": "WKL-Sec",
             "repo": "HiddenDesktop",
-            "stars": 1348,
+            "stars": 1347,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3006,7 +3006,7 @@
             "open_issues": 0,
             "owner": "NorthwaveSecurity",
             "repo": "kernel-mii",
-            "stars": 30,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3027,7 +3027,7 @@
             "open_issues": 0,
             "owner": "mertdas",
             "repo": "PrivKit",
-            "stars": 623,
+            "stars": 624,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3153,7 +3153,7 @@
             "open_issues": 5,
             "owner": "boku7",
             "repo": "BokuLoader",
-            "stars": 1439,
+            "stars": 1438,
             "topics": [
               "advsim",
               "boku",
@@ -3428,7 +3428,7 @@
             "open_issues": 18,
             "owner": "Gality369",
             "repo": "CS-Loader",
-            "stars": 834,
+            "stars": 833,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3537,7 +3537,7 @@
             "open_issues": 7,
             "owner": "optiv",
             "repo": "ScareCrow",
-            "stars": 2885,
+            "stars": 2884,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3579,7 +3579,7 @@
             "open_issues": 9,
             "owner": "phra",
             "repo": "PEzor",
-            "stars": 2137,
+            "stars": 2136,
             "topics": [
               "antivirus-evasion",
               "hacktoberfest",
@@ -3862,7 +3862,7 @@
         {
           "node_type": "item",
           "title": "aggressor-powerview",
-          "description": null,
+          "description": "tevora-threat/aggressor-powerview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3883,7 +3883,7 @@
         {
           "node_type": "item",
           "title": "All functions listed in the PowerView about page are included in this with all arguments for each function. PowerView",
-          "description": null,
+          "description": "PowerShellMafia/PowerSploit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3896,7 +3896,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13078,
+            "stars": 13076,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3904,7 +3904,7 @@
         {
           "node_type": "item",
           "title": "PowerView3-Aggressor",
-          "description": null,
+          "description": "tevora-threat/PowerView3-Aggressor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3925,7 +3925,7 @@
         {
           "node_type": "item",
           "title": "PowerView Aggressor Script for CobaltStrike PowerView",
-          "description": null,
+          "description": "PowerShellMafia/PowerSploit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3938,7 +3938,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13078,
+            "stars": 13076,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3980,7 +3980,7 @@
             "open_issues": 9,
             "owner": "Adminisme",
             "repo": "ServerScan",
-            "stars": 1657,
+            "stars": 1655,
             "topics": [
               "cobalt-strike",
               "golang",
@@ -4237,7 +4237,7 @@
             "open_issues": 41,
             "owner": "gloxec",
             "repo": "CrossC2",
-            "stars": 2574,
+            "stars": 2573,
             "topics": [
               "android",
               "cobalt-strike",
@@ -4394,7 +4394,7 @@
         {
           "node_type": "item",
           "title": "CVE_2020_0796_CNA",
-          "description": null,
+          "description": "Rvn0xsy/CVE_2020_0796_CNA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4428,7 +4428,7 @@
             "open_issues": 15,
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3364,
+            "stars": 3363,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4470,7 +4470,7 @@
             "open_issues": 0,
             "owner": "darkr4y",
             "repo": "geacon",
-            "stars": 1265,
+            "stars": 1264,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -4522,7 +4522,7 @@
             "open_issues": 0,
             "owner": "nccgroup",
             "repo": "nccfsas",
-            "stars": 609,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4593,7 +4593,7 @@
         {
           "node_type": "item",
           "title": "TikiTorch",
-          "description": null,
+          "description": "rasta-mouse/TikiTorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4648,7 +4648,7 @@
             "open_issues": 3,
             "owner": "mdsecactivebreach",
             "repo": "CACTUSTORCH",
-            "stars": 1016,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5448,7 +5448,7 @@
             "open_issues": 0,
             "owner": "capt-meelo",
             "repo": "Beaconator",
-            "stars": 447,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5539,7 +5539,7 @@
             "open_issues": 0,
             "owner": "hayasec",
             "repo": "360SafeBrowsergetpass",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "360safebrowser",
               "cobaltstrike",
@@ -5742,7 +5742,7 @@
             "open_issues": 0,
             "owner": "waldo-irc",
             "repo": "YouMayPasser",
-            "stars": 272,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5888,7 +5888,7 @@
         {
           "node_type": "item",
           "title": "Cobalt-Strike-Aggressor-Scripts",
-          "description": null,
+          "description": "timwhitez/Cobalt-Strike-Aggressor-Scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5909,7 +5909,7 @@
         {
           "node_type": "item",
           "title": "CobaltStrike后渗透测试插件集合 Usage",
-          "description": null,
+          "description": "timwhitez/Cobalt-Strike-Aggressor-Scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5971,7 +5971,7 @@
             "open_issues": 1,
             "owner": "lengjibo",
             "repo": "RedTeamTools",
-            "stars": 1471,
+            "stars": 1470,
             "topics": [
               "bypass360",
               "bypassav",
@@ -6003,7 +6003,7 @@
             "open_issues": 2,
             "owner": "mgeeky",
             "repo": "cobalt-arsenal",
-            "stars": 1108,
+            "stars": 1107,
             "topics": [
               "aggressor-scripts",
               "beacon",
@@ -6205,7 +6205,7 @@
             "open_issues": 0,
             "owner": "threatexpress",
             "repo": "aggressor-scripts",
-            "stars": 142,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6360,7 +6360,7 @@
             "open_issues": 2,
             "owner": "mgeeky",
             "repo": "cobalt-arsenal",
-            "stars": 1108,
+            "stars": 1107,
             "topics": [
               "aggressor-scripts",
               "beacon",
@@ -6497,7 +6497,7 @@
             "open_issues": 1,
             "owner": "invokethreatguy",
             "repo": "AggressorCollection",
-            "stars": 152,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6766,7 +6766,7 @@
             "open_issues": 1,
             "owner": "d3ckx1",
             "repo": "OLa",
-            "stars": 656,
+            "stars": 655,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6847,7 +6847,7 @@
             "open_issues": 0,
             "owner": "NexusFuzzy",
             "repo": "CobaltSpam",
-            "stars": 371,
+            "stars": 369,
             "topics": [
               "cobaltstrike",
               "cobaltstrike-defence"
@@ -7001,7 +7001,7 @@
             "open_issues": 15,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1322,
+            "stars": 1321,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7215,7 +7215,7 @@
             "open_issues": 0,
             "owner": "huoji120",
             "repo": "CobaltStrikeDetected",
-            "stars": 290,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7370,7 +7370,7 @@
             "open_issues": 0,
             "owner": "qigpig",
             "repo": "bypass-beacon-config-scan",
-            "stars": 84,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7415,7 +7415,7 @@
             "open_issues": 2,
             "owner": "Rvn0xsy",
             "repo": "Cooolis-ms",
-            "stars": 926,
+            "stars": 925,
             "topics": [
               "cooolis-ms",
               "metasploit"
@@ -7426,7 +7426,7 @@
         {
           "node_type": "item",
           "title": "UrbanBishopLocal",
-          "description": null,
+          "description": "slyd0g/UrbanBishopLocal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7552,7 +7552,7 @@
             "open_issues": 2,
             "owner": "dr0op",
             "repo": "CrossNet-Beta",
-            "stars": 368,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7712,7 +7712,7 @@
             "open_issues": 3,
             "owner": "Hzllaga",
             "repo": "ShellcodeLoader",
-            "stars": 515,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7720,7 +7720,7 @@
         {
           "node_type": "item",
           "title": "Alt-Beacon-Payload",
-          "description": null,
+          "description": "xx0hcd/Alt-Beacon-Payload",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7817,7 +7817,7 @@
             "open_issues": 1,
             "owner": "mgeeky",
             "repo": "ShellcodeFluctuation",
-            "stars": 1130,
+            "stars": 1129,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7859,7 +7859,7 @@
             "open_issues": 0,
             "owner": "mgeeky",
             "repo": "ThreadStackSpoofer",
-            "stars": 1248,
+            "stars": 1247,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7928,7 +7928,7 @@
             "open_issues": 0,
             "owner": "Rvn0xsy",
             "repo": "Linco2",
-            "stars": 141,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8209,7 +8209,7 @@
             "open_issues": 2,
             "owner": "dr0op",
             "repo": "CrossNet-Beta",
-            "stars": 368,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8571,7 +8571,7 @@
             "open_issues": 0,
             "owner": "darkr4y",
             "repo": "geacon",
-            "stars": 1265,
+            "stars": 1264,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -8682,7 +8682,7 @@
             "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1570,
+            "stars": 1569,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9018,7 +9018,7 @@
             "open_issues": 0,
             "owner": "Cobalt-Strike",
             "repo": "CallStackMasker",
-            "stars": 316,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T05:01:13Z",
+            "last_commit": "2026-10-03T03:12:53Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9074,7 +9074,7 @@
             "language": "YARA",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T07:50:51Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "Neo23x0",
             "repo": "signature-base",
             "stars": 3040,
@@ -9106,7 +9106,7 @@
             "language": "YARA",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T07:50:51Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "Neo23x0",
             "repo": "signature-base",
             "stars": 3040,
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:02:28.800Z",
+    "last_updated": "2026-10-03T04:25:53.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9190,7 +9190,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4455,
+      "stars": 4454,
       "topics": [
         "cobalt-strike",
         "redteam",
