@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "aleenzz",
                 "repo": "Cobalt_Strike_wiki",
-                "stars": 2433,
+                "stars": 2434,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:42.747Z"
@@ -220,7 +220,7 @@
             "open_issues": 2,
             "owner": "rsmudge",
             "repo": "Malleable-C2-Profiles",
-            "stars": 1587,
+            "stars": 1588,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4121,7 +4121,7 @@
             "open_issues": 21,
             "owner": "k8gege",
             "repo": "Aggressor",
-            "stars": 1070,
+            "stars": 1071,
             "topics": [
               "aggressor-scripts",
               "brute-force",
@@ -6226,7 +6226,7 @@
             "open_issues": 3,
             "owner": "pandasec888",
             "repo": "taowu-cobalt_strike",
-            "stars": 1837,
+            "stars": 1838,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6339,7 +6339,7 @@
             "open_issues": 3,
             "owner": "killswitch-GUI",
             "repo": "CobaltStrike-ToolKit",
-            "stars": 855,
+            "stars": 856,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6698,7 +6698,7 @@
             "open_issues": 5,
             "owner": "lintstar",
             "repo": "LSTAR",
-            "stars": 1265,
+            "stars": 1266,
             "topics": [
               "aggressor-scripts",
               "attack",
@@ -6766,7 +6766,7 @@
             "open_issues": 1,
             "owner": "d3ckx1",
             "repo": "OLa",
-            "stars": 655,
+            "stars": 656,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7001,7 +7001,7 @@
             "open_issues": 15,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1321,
+            "stars": 1322,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7859,7 +7859,7 @@
             "open_issues": 0,
             "owner": "mgeeky",
             "repo": "ThreadStackSpoofer",
-            "stars": 1247,
+            "stars": 1248,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T05:10:12Z",
+            "last_commit": "2026-10-04T05:06:58Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:35:04.287Z",
+    "last_updated": "2026-10-04T08:52:19.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
