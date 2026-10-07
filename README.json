@@ -804,7 +804,7 @@
             "open_issues": 2,
             "owner": "trustedsec",
             "repo": "CS-Remote-OPs-BOF",
-            "stars": 1191,
+            "stars": 1192,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3132,7 +3132,7 @@
             "open_issues": 5,
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1289,
+            "stars": 1290,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3980,7 +3980,7 @@
             "open_issues": 9,
             "owner": "Adminisme",
             "repo": "ServerScan",
-            "stars": 1656,
+            "stars": 1655,
             "topics": [
               "cobalt-strike",
               "golang",
@@ -4081,7 +4081,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5331,
+            "stars": 5332,
             "topics": [
               "brute-force",
               "exp",
@@ -5266,7 +5266,7 @@
             "id": 159565017,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T17:37:57Z",
+            "last_commit": "2026-10-06T20:20:09Z",
             "open_issues": 2,
             "owner": "bitsadmin",
             "repo": "nopowershell",
@@ -5490,7 +5490,7 @@
             "open_issues": 10,
             "owner": "Sentinel-One",
             "repo": "CobaltStrikeParser",
-            "stars": 1134,
+            "stars": 1133,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5539,7 +5539,7 @@
             "open_issues": 0,
             "owner": "hayasec",
             "repo": "360SafeBrowsergetpass",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "360safebrowser",
               "cobaltstrike",
@@ -6093,7 +6093,7 @@
             "open_issues": 3,
             "owner": "harleyQu1nn",
             "repo": "AggressorScripts",
-            "stars": 1527,
+            "stars": 1526,
             "topics": [
               "aggressor",
               "aggressor-scripts",
@@ -7775,7 +7775,7 @@
             "open_issues": 5,
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1289,
+            "stars": 1290,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7859,7 +7859,7 @@
             "open_issues": 0,
             "owner": "mgeeky",
             "repo": "ThreadStackSpoofer",
-            "stars": 1248,
+            "stars": 1247,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7901,7 +7901,7 @@
             "open_issues": 1,
             "owner": "Pizz33",
             "repo": "GobypassAV-shellcode",
-            "stars": 931,
+            "stars": 932,
             "topics": [
               "bypass",
               "cobaltstrike",
@@ -7991,7 +7991,7 @@
             "open_issues": 0,
             "owner": "Ridter",
             "repo": "cs_custom_404",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:15:29Z",
+            "last_commit": "2026-10-07T09:04:35Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9077,7 +9077,7 @@
             "open_issues": 18,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3041,
+            "stars": 3043,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9109,7 +9109,7 @@
             "open_issues": 18,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3041,
+            "stars": 3043,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:30:57.600Z",
+    "last_updated": "2026-10-07T09:23:28.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
