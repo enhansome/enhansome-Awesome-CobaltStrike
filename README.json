@@ -1192,7 +1192,7 @@
             "open_issues": 0,
             "owner": "boku7",
             "repo": "halosgate-ps",
-            "stars": 107,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1656,7 +1656,7 @@
             "open_issues": 0,
             "owner": "boku7",
             "repo": "injectAmsiBypass",
-            "stars": 379,
+            "stars": 378,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1761,7 +1761,7 @@
             "open_issues": 0,
             "owner": "boku7",
             "repo": "HOLLOW",
-            "stars": 290,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1803,7 +1803,7 @@
             "open_issues": 1,
             "owner": "Mr-Un1k0d3r",
             "repo": "SCShell",
-            "stars": 1667,
+            "stars": 1668,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2142,7 +2142,7 @@
             "open_issues": 0,
             "owner": "boku7",
             "repo": "injectEtwBypass",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2814,7 +2814,7 @@
             "open_issues": 5,
             "owner": "WKL-Sec",
             "repo": "HiddenDesktop",
-            "stars": 1347,
+            "stars": 1346,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2922,7 +2922,7 @@
             "open_issues": 0,
             "owner": "c3r3br4t3",
             "repo": "ShadowRDP",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3270,7 +3270,7 @@
             "open_issues": 8,
             "owner": "hack2fun",
             "repo": "BypassAV",
-            "stars": 905,
+            "stars": 904,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3291,7 +3291,7 @@
             "open_issues": 8,
             "owner": "hack2fun",
             "repo": "BypassAV",
-            "stars": 905,
+            "stars": 904,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3312,7 +3312,7 @@
             "open_issues": 1,
             "owner": "k8gege",
             "repo": "scrun",
-            "stars": 178,
+            "stars": 177,
             "topics": [
               "bypass-av",
               "bypassantivirus",
@@ -3340,7 +3340,7 @@
             "open_issues": 5,
             "owner": "SecNN",
             "repo": "ShellCode_Loader",
-            "stars": 417,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3470,7 +3470,7 @@
             "open_issues": 7,
             "owner": "joshfaust",
             "repo": "Alaris",
-            "stars": 914,
+            "stars": 913,
             "topics": [
               "bypass-antivirus",
               "shellcode-loader",
@@ -3537,7 +3537,7 @@
             "open_issues": 7,
             "owner": "optiv",
             "repo": "ScareCrow",
-            "stars": 2886,
+            "stars": 2885,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3833,7 +3833,7 @@
             "open_issues": 0,
             "owner": "threatexpress",
             "repo": "red-team-scripts",
-            "stars": 1145,
+            "stars": 1144,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3896,7 +3896,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13074,
+            "stars": 13073,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3938,7 +3938,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13074,
+            "stars": 13073,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4034,7 +4034,7 @@
             "open_issues": 1,
             "owner": "EncodeGroup",
             "repo": "AggressiveProxy",
-            "stars": 138,
+            "stars": 137,
             "topics": [
               "cobaltstrike",
               "cobaltstrike-cna",
@@ -4365,7 +4365,7 @@
             "open_issues": 0,
             "owner": "rsmudge",
             "repo": "ElevateKit",
-            "stars": 932,
+            "stars": 931,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4428,7 +4428,7 @@
             "open_issues": 15,
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3367,
+            "stars": 3368,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4470,7 +4470,7 @@
             "open_issues": 0,
             "owner": "darkr4y",
             "repo": "geacon",
-            "stars": 1264,
+            "stars": 1265,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -5539,7 +5539,7 @@
             "open_issues": 0,
             "owner": "hayasec",
             "repo": "360SafeBrowsergetpass",
-            "stars": 632,
+            "stars": 631,
             "topics": [
               "360safebrowser",
               "cobaltstrike",
@@ -5564,7 +5564,7 @@
             "open_issues": 1,
             "owner": "uknowsec",
             "repo": "SharpDecryptPwd",
-            "stars": 1272,
+            "stars": 1271,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5857,7 +5857,7 @@
             "open_issues": 9,
             "owner": "DeEpinGh0st",
             "repo": "Erebus",
-            "stars": 1572,
+            "stars": 1571,
             "topics": [
               "cobaltstrike"
             ]
@@ -5943,7 +5943,7 @@
             "open_issues": 3,
             "owner": "bluscreenofjeff",
             "repo": "AggressorScripts",
-            "stars": 899,
+            "stars": 898,
             "topics": [
               "aggressor-scripts",
               "beacon",
@@ -5971,7 +5971,7 @@
             "open_issues": 1,
             "owner": "lengjibo",
             "repo": "RedTeamTools",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "bypass360",
               "bypassav",
@@ -6093,7 +6093,7 @@
             "open_issues": 3,
             "owner": "harleyQu1nn",
             "repo": "AggressorScripts",
-            "stars": 1526,
+            "stars": 1525,
             "topics": [
               "aggressor",
               "aggressor-scripts",
@@ -6226,7 +6226,7 @@
             "open_issues": 3,
             "owner": "pandasec888",
             "repo": "taowu-cobalt_strike",
-            "stars": 1839,
+            "stars": 1838,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6745,7 +6745,7 @@
             "open_issues": 0,
             "owner": "uknowsec",
             "repo": "SharpToolsAggressor",
-            "stars": 500,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7481,7 +7481,7 @@
             "open_issues": 0,
             "owner": "yqcs",
             "repo": "ZheTian",
-            "stars": 749,
+            "stars": 748,
             "topics": [
               "bypass",
               "bypass-antivirus",
@@ -7573,7 +7573,7 @@
             "open_issues": 8,
             "owner": "hack2fun",
             "repo": "BypassAV",
-            "stars": 905,
+            "stars": 904,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7594,7 +7594,7 @@
             "open_issues": 5,
             "owner": "aeverj",
             "repo": "NimShellCodeLoader",
-            "stars": 706,
+            "stars": 705,
             "topics": [
               "evasion-attack",
               "nim",
@@ -7641,7 +7641,7 @@
             "open_issues": 0,
             "owner": "yqcs",
             "repo": "ZheTian",
-            "stars": 749,
+            "stars": 748,
             "topics": [
               "bypass",
               "bypass-antivirus",
@@ -7901,7 +7901,7 @@
             "open_issues": 1,
             "owner": "Pizz33",
             "repo": "GobypassAV-shellcode",
-            "stars": 932,
+            "stars": 931,
             "topics": [
               "bypass",
               "cobaltstrike",
@@ -8159,7 +8159,7 @@
             "open_issues": 4,
             "owner": "FunnyWolf",
             "repo": "pystinger",
-            "stars": 1425,
+            "stars": 1424,
             "topics": [
               "cobalt-strike",
               "regeorg",
@@ -8571,7 +8571,7 @@
             "open_issues": 0,
             "owner": "darkr4y",
             "repo": "geacon",
-            "stars": 1264,
+            "stars": 1265,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T09:03:34Z",
+            "last_commit": "2026-10-09T09:05:07Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9162,7 +9162,7 @@
             "open_issues": 0,
             "owner": "al0ne",
             "repo": "suricata-rules",
-            "stars": 1291,
+            "stars": 1290,
             "topics": [
               "ids",
               "security",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:33:33.193Z",
+    "last_updated": "2026-10-09T09:40:47.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9190,7 +9190,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4456,
+      "stars": 4455,
       "topics": [
         "cobalt-strike",
         "redteam",
