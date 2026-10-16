@@ -1255,7 +1255,7 @@
             "open_issues": 3,
             "owner": "Cobalt-Strike",
             "repo": "bof-vs",
-            "stars": 296,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3027,7 +3027,7 @@
             "open_issues": 0,
             "owner": "mertdas",
             "repo": "PrivKit",
-            "stars": 630,
+            "stars": 631,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3537,7 +3537,7 @@
             "open_issues": 7,
             "owner": "optiv",
             "repo": "ScareCrow",
-            "stars": 2885,
+            "stars": 2884,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3605,7 +3605,7 @@
             "open_issues": 3,
             "owner": "Unknow101",
             "repo": "FuckThatPacker",
-            "stars": 641,
+            "stars": 642,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3896,7 +3896,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13072,
+            "stars": 13073,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3938,7 +3938,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13072,
+            "stars": 13073,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4081,7 +4081,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5332,
+            "stars": 5333,
             "topics": [
               "brute-force",
               "exp",
@@ -4428,7 +4428,7 @@
             "open_issues": 15,
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3371,
+            "stars": 3372,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5270,7 +5270,7 @@
             "open_issues": 2,
             "owner": "bitsadmin",
             "repo": "nopowershell",
-            "stars": 1058,
+            "stars": 1059,
             "topics": [
               "cobaltstrike",
               "powershell",
@@ -6003,7 +6003,7 @@
             "open_issues": 2,
             "owner": "mgeeky",
             "repo": "cobalt-arsenal",
-            "stars": 1109,
+            "stars": 1110,
             "topics": [
               "aggressor-scripts",
               "beacon",
@@ -6360,7 +6360,7 @@
             "open_issues": 2,
             "owner": "mgeeky",
             "repo": "cobalt-arsenal",
-            "stars": 1109,
+            "stars": 1110,
             "topics": [
               "aggressor-scripts",
               "beacon",
@@ -6812,11 +6812,11 @@
             "id": 474029374,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T11:48:43Z",
+            "last_commit": "2026-10-15T12:21:25Z",
             "open_issues": 1,
             "owner": "fox-it",
             "repo": "dissect.cobaltstrike",
-            "stars": 209,
+            "stars": 212,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -7415,7 +7415,7 @@
             "open_issues": 2,
             "owner": "Rvn0xsy",
             "repo": "Cooolis-ms",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "cooolis-ms",
               "metasploit"
@@ -7859,7 +7859,7 @@
             "open_issues": 0,
             "owner": "mgeeky",
             "repo": "ThreadStackSpoofer",
-            "stars": 1249,
+            "stars": 1250,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +9041,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T05:04:12Z",
+            "last_commit": "2026-10-16T05:13:38Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9178,7 +9178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:44:58.850Z",
+    "last_updated": "2026-10-16T07:33:22.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
