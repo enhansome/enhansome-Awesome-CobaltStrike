@@ -262,7 +262,7 @@
             "open_issues": 4,
             "owner": "threatexpress",
             "repo": "malleable-c2",
-            "stars": 1764,
+            "stars": 1765,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -619,7 +619,7 @@
             "open_issues": 1,
             "owner": "rvrsh3ll",
             "repo": "BOF_Collection",
-            "stars": 787,
+            "stars": 788,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -997,7 +997,7 @@
             "open_issues": 0,
             "owner": "rookuu",
             "repo": "BOFs",
-            "stars": 187,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 1,
             "owner": "EspressoCake",
             "repo": "Defender_Exclusions-BOF",
-            "stars": 255,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1698,7 +1698,7 @@
             "open_issues": 1,
             "owner": "anthemtotheego",
             "repo": "Detect-Hooks",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3090,7 +3090,7 @@
             "open_issues": 0,
             "owner": "N4kedTurtle",
             "repo": "PersistBOF",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3111,7 +3111,7 @@
             "open_issues": 0,
             "owner": "BronzeTicket",
             "repo": "ClipboardWindow-Inject",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3579,7 +3579,7 @@
             "open_issues": 9,
             "owner": "phra",
             "repo": "PEzor",
-            "stars": 2141,
+            "stars": 2143,
             "topics": [
               "antivirus-evasion",
               "hacktoberfest",
@@ -4237,7 +4237,7 @@
             "open_issues": 41,
             "owner": "gloxec",
             "repo": "CrossC2",
-            "stars": 2578,
+            "stars": 2579,
             "topics": [
               "android",
               "cobalt-strike",
@@ -4365,7 +4365,7 @@
             "open_issues": 0,
             "owner": "rsmudge",
             "repo": "ElevateKit",
-            "stars": 932,
+            "stars": 931,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4428,7 +4428,7 @@
             "open_issues": 15,
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3375,
+            "stars": 3376,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4470,7 +4470,7 @@
             "open_issues": 0,
             "owner": "darkr4y",
             "repo": "geacon",
-            "stars": 1265,
+            "stars": 1266,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -4628,27 +4628,6 @@
             "owner": "vysecurity",
             "repo": "CACTUSTORCH",
             "stars": 76,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:36:42.747Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Persistence",
-          "description": "CACTUSTORCH A JavaScript and VBScript shellcode launcher. This will spawn a 32 bit version of the binary specified and inject shellcode into it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CACTUSTORCH: Payload Generation for Adversary Simulations",
-            "homepage": null,
-            "id": 96205562,
-            "language": "Visual Basic",
-            "license": null,
-            "last_commit": "2018-07-03T06:47:36Z",
-            "open_issues": 3,
-            "owner": "mdsecactivebreach",
-            "repo": "CACTUSTORCH",
-            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5572,27 +5551,6 @@
         {
           "node_type": "item",
           "title": "Auxiliary",
-          "description": "List-GitHubAssembly Fetch a list of avaialble artifacts from the configured GitHub repo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Aggressor Script to Execute Assemblies from Github",
-            "homepage": null,
-            "id": 245470814,
-            "language": null,
-            "license": null,
-            "last_commit": "2020-11-30T21:55:02Z",
-            "open_issues": 1,
-            "owner": "mdsecactivebreach",
-            "repo": "Execute-GithubAssembly-Aggressor",
-            "stars": 71,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:36:42.747Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Auxiliary",
           "description": "ExecuteAssembly ExecuteAssembly is an alternative of CS execute-assembly, built with C/C++ and it can be used to Load/Inject .NET assemblies by; reusing the host (spawnto) process loaded CLR Modules/AppDomainManager, Stomping Loader/.NET assembly PE DOS headers, Unlinking .NET related modules, bypassing ETW+AMSI, avoiding EDR hooks via NT static syscalls (x64) and hiding imports by dynamically resolving APIs via superfasthash hashing algorithm.",
           "children": [],
           "repo_info": {
@@ -5857,7 +5815,7 @@
             "open_issues": 9,
             "owner": "DeEpinGh0st",
             "repo": "Erebus",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "cobaltstrike"
             ]
@@ -6226,7 +6184,7 @@
             "open_issues": 3,
             "owner": "pandasec888",
             "repo": "taowu-cobalt_strike",
-            "stars": 1838,
+            "stars": 1837,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7001,7 +6959,7 @@
             "open_issues": 16,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1327,
+            "stars": 1326,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7817,7 +7775,7 @@
             "open_issues": 1,
             "owner": "mgeeky",
             "repo": "ShellcodeFluctuation",
-            "stars": 1133,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7859,7 +7817,7 @@
             "open_issues": 0,
             "owner": "mgeeky",
             "repo": "ThreadStackSpoofer",
-            "stars": 1252,
+            "stars": 1253,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8159,7 +8117,7 @@
             "open_issues": 4,
             "owner": "FunnyWolf",
             "repo": "pystinger",
-            "stars": 1426,
+            "stars": 1425,
             "topics": [
               "cobalt-strike",
               "regeorg",
@@ -8571,7 +8529,7 @@
             "open_issues": 0,
             "owner": "darkr4y",
             "repo": "geacon",
-            "stars": 1265,
+            "stars": 1266,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -8682,7 +8640,7 @@
             "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1571,
+            "stars": 1570,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8766,7 +8724,7 @@
             "open_issues": 1,
             "owner": "9bie",
             "repo": "oss-stinger",
-            "stars": 371,
+            "stars": 370,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9018,7 +8976,7 @@
             "open_issues": 0,
             "owner": "Cobalt-Strike",
             "repo": "CallStackMasker",
-            "stars": 315,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9041,7 +8999,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T05:04:39Z",
+            "last_commit": "2026-10-24T05:07:15Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9178,7 +9136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:58:22.381Z",
+    "last_updated": "2026-10-24T07:37:51.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9190,7 +9148,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4458,
+      "stars": 4459,
       "topics": [
         "cobalt-strike",
         "redteam",
