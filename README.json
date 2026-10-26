@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "aleenzz",
                 "repo": "Cobalt_Strike_wiki",
-                "stars": 2435,
+                "stars": 2434,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:42.747Z"
@@ -512,7 +512,7 @@
             "open_issues": 0,
             "owner": "CodeXTF2",
             "repo": "Burp2Malleable",
-            "stars": 417,
+            "stars": 416,
             "topics": [
               "burpsuite",
               "cobalt-strike",
@@ -640,7 +640,7 @@
             "open_issues": 1,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1912,
+            "stars": 1913,
             "topics": [
               "bof",
               "c",
@@ -909,7 +909,7 @@
             "open_issues": 5,
             "owner": "CCob",
             "repo": "BOF.NET",
-            "stars": 789,
+            "stars": 790,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -930,7 +930,7 @@
             "open_issues": 1,
             "owner": "outflanknl",
             "repo": "InlineWhispers",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -972,7 +972,7 @@
             "open_issues": 1,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1912,
+            "stars": 1913,
             "topics": [
               "bof",
               "c",
@@ -1234,7 +1234,7 @@
             "open_issues": 3,
             "owner": "Cobalt-Strike",
             "repo": "bof-vs",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1782,7 +1782,7 @@
             "open_issues": 1,
             "owner": "Mr-Un1k0d3r",
             "repo": "SCShell",
-            "stars": 1670,
+            "stars": 1671,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2184,7 +2184,7 @@
             "open_issues": 0,
             "owner": "fortra",
             "repo": "nanodump",
-            "stars": 2141,
+            "stars": 2142,
             "topics": [
               "bof",
               "cna",
@@ -3111,7 +3111,7 @@
             "open_issues": 5,
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1297,
+            "stars": 1298,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3474,7 +3474,7 @@
             "open_issues": 1,
             "owner": "rkervella",
             "repo": "CarbonMonoxide",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3875,7 +3875,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13077,
+            "stars": 13076,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3917,7 +3917,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13077,
+            "stars": 13076,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4060,7 +4060,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5335,
+            "stars": 5337,
             "topics": [
               "brute-force",
               "exp",
@@ -4100,7 +4100,7 @@
             "open_issues": 21,
             "owner": "k8gege",
             "repo": "Aggressor",
-            "stars": 1074,
+            "stars": 1075,
             "topics": [
               "aggressor-scripts",
               "brute-force",
@@ -4216,7 +4216,7 @@
             "open_issues": 41,
             "owner": "gloxec",
             "repo": "CrossC2",
-            "stars": 2579,
+            "stars": 2578,
             "topics": [
               "android",
               "cobalt-strike",
@@ -4344,7 +4344,7 @@
             "open_issues": 0,
             "owner": "rsmudge",
             "repo": "ElevateKit",
-            "stars": 931,
+            "stars": 932,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5794,7 +5794,7 @@
             "open_issues": 9,
             "owner": "DeEpinGh0st",
             "repo": "Erebus",
-            "stars": 1572,
+            "stars": 1573,
             "topics": [
               "cobaltstrike"
             ]
@@ -6539,7 +6539,7 @@
             "open_issues": 0,
             "owner": "Al1ex",
             "repo": "CSPlugins",
-            "stars": 414,
+            "stars": 413,
             "topics": [
               "aggressor",
               "attack",
@@ -6635,7 +6635,7 @@
             "open_issues": 5,
             "owner": "lintstar",
             "repo": "LSTAR",
-            "stars": 1270,
+            "stars": 1271,
             "topics": [
               "aggressor-scripts",
               "attack",
@@ -7712,7 +7712,7 @@
             "open_issues": 5,
             "owner": "med0x2e",
             "repo": "SigFlip",
-            "stars": 1297,
+            "stars": 1298,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8978,7 +8978,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T05:04:01Z",
+            "last_commit": "2026-10-26T05:06:01Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9115,7 +9115,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:49:56.044Z",
+    "last_updated": "2026-10-26T08:09:14.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
