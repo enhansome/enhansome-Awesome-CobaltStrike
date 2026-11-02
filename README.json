@@ -997,7 +997,7 @@
             "open_issues": 0,
             "owner": "rookuu",
             "repo": "BOFs",
-            "stars": 188,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1018,7 +1018,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "COFFLoader",
-            "stars": 666,
+            "stars": 667,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2205,7 +2205,7 @@
             "open_issues": 0,
             "owner": "fortra",
             "repo": "nanodump",
-            "stars": 2143,
+            "stars": 2144,
             "topics": [
               "bof",
               "cna",
@@ -3495,7 +3495,7 @@
             "open_issues": 1,
             "owner": "rkervella",
             "repo": "CarbonMonoxide",
-            "stars": 30,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4081,7 +4081,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5337,
+            "stars": 5339,
             "topics": [
               "brute-force",
               "exp",
@@ -4470,7 +4470,7 @@
             "open_issues": 0,
             "owner": "darkr4y",
             "repo": "geacon",
-            "stars": 1266,
+            "stars": 1265,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -5543,7 +5543,7 @@
             "open_issues": 1,
             "owner": "uknowsec",
             "repo": "SharpDecryptPwd",
-            "stars": 1269,
+            "stars": 1270,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5929,7 +5929,7 @@
             "open_issues": 1,
             "owner": "lengjibo",
             "repo": "RedTeamTools",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "bypass360",
               "bypassav",
@@ -7373,7 +7373,7 @@
             "open_issues": 2,
             "owner": "Rvn0xsy",
             "repo": "Cooolis-ms",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "cooolis-ms",
               "metasploit"
@@ -7775,7 +7775,7 @@
             "open_issues": 1,
             "owner": "mgeeky",
             "repo": "ShellcodeFluctuation",
-            "stars": 1135,
+            "stars": 1136,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8439,7 +8439,7 @@
             "open_issues": 1,
             "owner": "fortalice",
             "repo": "bofhound",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "active-directory",
               "bloodhound",
@@ -8529,7 +8529,7 @@
             "open_issues": 0,
             "owner": "darkr4y",
             "repo": "geacon",
-            "stars": 1266,
+            "stars": 1265,
             "topics": [
               "beacon",
               "cobaltstrike",
@@ -8640,7 +8640,7 @@
             "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1574,
+            "stars": 1575,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8682,7 +8682,7 @@
             "open_issues": 7,
             "owner": "mgeeky",
             "repo": "RedWarden",
-            "stars": 992,
+            "stars": 993,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8703,7 +8703,7 @@
             "open_issues": 0,
             "owner": "XiaoliChan",
             "repo": "RedCaddy",
-            "stars": 208,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8999,7 +8999,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T09:10:52Z",
+            "last_commit": "2026-11-02T09:11:15Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9136,7 +9136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:48:07.596Z",
+    "last_updated": "2026-11-02T10:05:47.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9148,7 +9148,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4461,
+      "stars": 4462,
       "topics": [
         "cobalt-strike",
         "redteam",
