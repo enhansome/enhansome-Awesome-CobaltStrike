@@ -825,7 +825,7 @@
             "open_issues": 0,
             "owner": "REDMED-X",
             "repo": "OperatorsKit",
-            "stars": 716,
+            "stars": 717,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3537,7 +3537,7 @@
             "open_issues": 7,
             "owner": "optiv",
             "repo": "ScareCrow",
-            "stars": 2887,
+            "stars": 2888,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3917,7 +3917,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13067,
+            "stars": 13064,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3959,7 +3959,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13067,
+            "stars": 13064,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4102,7 +4102,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5342,
+            "stars": 5341,
             "topics": [
               "brute-force",
               "exp",
@@ -5950,7 +5950,7 @@
             "open_issues": 1,
             "owner": "lengjibo",
             "repo": "RedTeamTools",
-            "stars": 1471,
+            "stars": 1470,
             "topics": [
               "bypass360",
               "bypassav",
@@ -6980,7 +6980,7 @@
             "open_issues": 16,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1329,
+            "stars": 1328,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7796,7 +7796,7 @@
             "open_issues": 1,
             "owner": "mgeeky",
             "repo": "ShellcodeFluctuation",
-            "stars": 1136,
+            "stars": 1137,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8460,7 +8460,7 @@
             "open_issues": 1,
             "owner": "fortalice",
             "repo": "bofhound",
-            "stars": 422,
+            "stars": 424,
             "topics": [
               "active-directory",
               "bloodhound",
@@ -9020,7 +9020,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T09:07:10Z",
+            "last_commit": "2026-11-08T09:12:38Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9056,7 +9056,7 @@
             "open_issues": 26,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3061,
+            "stars": 3062,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9088,7 +9088,7 @@
             "open_issues": 26,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3061,
+            "stars": 3062,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9157,7 +9157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T09:18:32.755Z",
+    "last_updated": "2026-11-08T09:36:04.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
