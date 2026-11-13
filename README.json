@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "aleenzz",
                 "repo": "Cobalt_Strike_wiki",
-                "stars": 2432,
+                "stars": 2431,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:42.747Z"
@@ -640,7 +640,7 @@
             "open_issues": 1,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1921,
+            "stars": 1922,
             "topics": [
               "bof",
               "c",
@@ -972,7 +972,7 @@
             "open_issues": 1,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1921,
+            "stars": 1922,
             "topics": [
               "bof",
               "c",
@@ -1018,7 +1018,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "COFFLoader",
-            "stars": 669,
+            "stars": 670,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1171,7 +1171,7 @@
             "open_issues": 1,
             "owner": "Cracked5pider",
             "repo": "CoffeeLdr",
-            "stars": 292,
+            "stars": 293,
             "topics": []
           },
           "first_seen": "2026-11-10T10:30:40.304Z"
@@ -1761,7 +1761,7 @@
             "open_issues": 0,
             "owner": "boku7",
             "repo": "HOLLOW",
-            "stars": 288,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2205,7 +2205,7 @@
             "open_issues": 0,
             "owner": "fortra",
             "repo": "nanodump",
-            "stars": 2150,
+            "stars": 2151,
             "topics": [
               "bof",
               "cna",
@@ -3917,7 +3917,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13064,
+            "stars": 13065,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3959,7 +3959,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13064,
+            "stars": 13065,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4102,7 +4102,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5342,
+            "stars": 5343,
             "topics": [
               "brute-force",
               "exp",
@@ -5585,7 +5585,7 @@
             "open_issues": 2,
             "owner": "med0x2e",
             "repo": "ExecuteAssembly",
-            "stars": 599,
+            "stars": 600,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6980,7 +6980,7 @@
             "open_issues": 16,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1328,
+            "stars": 1329,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7082,7 +7082,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-08-14T04:41:53Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "JPCERTCC",
             "repo": "aa-tools",
             "stars": 464,
@@ -9020,11 +9020,11 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T09:22:14Z",
+            "last_commit": "2026-11-13T09:15:36Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
-            "stars": 753,
+            "stars": 752,
             "topics": [
               "cobalt-strike",
               "cobaltstrike",
@@ -9141,7 +9141,7 @@
             "open_issues": 0,
             "owner": "al0ne",
             "repo": "suricata-rules",
-            "stars": 1295,
+            "stars": 1294,
             "topics": [
               "ids",
               "security",
@@ -9157,7 +9157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T10:22:34.683Z",
+    "last_updated": "2026-11-13T10:07:07.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9169,7 +9169,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4467,
+      "stars": 4466,
       "topics": [
         "cobalt-strike",
         "redteam",
