@@ -220,7 +220,7 @@
             "open_issues": 2,
             "owner": "rsmudge",
             "repo": "Malleable-C2-Profiles",
-            "stars": 1589,
+            "stars": 1590,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -592,7 +592,7 @@
             "open_issues": 2,
             "owner": "WKL-Sec",
             "repo": "Malleable-CS-Profiles",
-            "stars": 556,
+            "stars": 558,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -619,7 +619,7 @@
             "open_issues": 1,
             "owner": "rvrsh3ll",
             "repo": "BOF_Collection",
-            "stars": 790,
+            "stars": 791,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3027,7 +3027,7 @@
             "open_issues": 0,
             "owner": "mertdas",
             "repo": "PrivKit",
-            "stars": 633,
+            "stars": 634,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3270,7 +3270,7 @@
             "open_issues": 8,
             "owner": "hack2fun",
             "repo": "BypassAV",
-            "stars": 904,
+            "stars": 903,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3291,7 +3291,7 @@
             "open_issues": 8,
             "owner": "hack2fun",
             "repo": "BypassAV",
-            "stars": 904,
+            "stars": 903,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3312,7 +3312,7 @@
             "open_issues": 1,
             "owner": "k8gege",
             "repo": "scrun",
-            "stars": 176,
+            "stars": 175,
             "topics": [
               "bypass-av",
               "bypassantivirus",
@@ -3470,7 +3470,7 @@
             "open_issues": 7,
             "owner": "joshfaust",
             "repo": "Alaris",
-            "stars": 914,
+            "stars": 913,
             "topics": [
               "bypass-antivirus",
               "shellcode-loader",
@@ -3917,7 +3917,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13066,
+            "stars": 13068,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3959,7 +3959,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13066,
+            "stars": 13068,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4102,7 +4102,7 @@
             "open_issues": 44,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5343,
+            "stars": 5342,
             "topics": [
               "brute-force",
               "exp",
@@ -4319,7 +4319,7 @@
             "open_issues": 1,
             "owner": "phink-team",
             "repo": "Cobaltstrike-MS17-010",
-            "stars": 419,
+            "stars": 418,
             "topics": [
               "coblatstrike",
               "pentest",
@@ -5836,7 +5836,7 @@
             "open_issues": 10,
             "owner": "DeEpinGh0st",
             "repo": "Erebus",
-            "stars": 1575,
+            "stars": 1574,
             "topics": [
               "cobaltstrike"
             ]
@@ -6318,7 +6318,7 @@
             "open_issues": 3,
             "owner": "killswitch-GUI",
             "repo": "CobaltStrike-ToolKit",
-            "stars": 857,
+            "stars": 858,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6724,7 +6724,7 @@
             "open_issues": 0,
             "owner": "uknowsec",
             "repo": "SharpToolsAggressor",
-            "stars": 499,
+            "stars": 498,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7552,7 +7552,7 @@
             "open_issues": 8,
             "owner": "hack2fun",
             "repo": "BypassAV",
-            "stars": 904,
+            "stars": 903,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -7838,7 +7838,7 @@
             "open_issues": 0,
             "owner": "mgeeky",
             "repo": "ThreadStackSpoofer",
-            "stars": 1258,
+            "stars": 1259,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -8314,7 +8314,7 @@
             "open_issues": 4,
             "owner": "AlphabugX",
             "repo": "csOnvps",
-            "stars": 288,
+            "stars": 287,
             "topics": [
               "cobaltstrike"
             ]
@@ -9020,7 +9020,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T09:16:47Z",
+            "last_commit": "2026-11-16T09:17:36Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9157,7 +9157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:58:54.729Z",
+    "last_updated": "2026-11-16T10:12:32.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
