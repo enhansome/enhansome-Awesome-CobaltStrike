@@ -1018,7 +1018,7 @@
             "open_issues": 0,
             "owner": "trustedsec",
             "repo": "COFFLoader",
-            "stars": 671,
+            "stars": 672,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1171,7 +1171,7 @@
             "open_issues": 1,
             "owner": "Cracked5pider",
             "repo": "CoffeeLdr",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-11-10T10:30:40.304Z"
@@ -3579,7 +3579,7 @@
             "open_issues": 9,
             "owner": "phra",
             "repo": "PEzor",
-            "stars": 2148,
+            "stars": 2149,
             "topics": [
               "antivirus-evasion",
               "hacktoberfest",
@@ -3718,7 +3718,7 @@
             "open_issues": 5,
             "owner": "kyleavery",
             "repo": "AceLdr",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3917,7 +3917,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13070,
+            "stars": 13069,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3959,7 +3959,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13070,
+            "stars": 13069,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4099,7 +4099,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2025-03-24T13:53:59Z",
-            "open_issues": 44,
+            "open_issues": 43,
             "owner": "k8gege",
             "repo": "Ladon",
             "stars": 5346,
@@ -7215,7 +7215,7 @@
             "open_issues": 4,
             "owner": "CCob",
             "repo": "BeaconEye",
-            "stars": 963,
+            "stars": 964,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9020,7 +9020,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T09:18:07Z",
+            "last_commit": "2026-11-23T11:21:20Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9052,11 +9052,11 @@
             "id": 51743885,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T07:59:46Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-22T11:18:35Z",
+            "open_issues": 28,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3072,
+            "stars": 3073,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9084,11 +9084,11 @@
             "id": 51743885,
             "language": "YARA",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T07:59:46Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-22T11:18:35Z",
+            "open_issues": 28,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3072,
+            "stars": 3073,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9157,7 +9157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T10:23:24.489Z",
+    "last_updated": "2026-11-23T11:22:18.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
