@@ -804,7 +804,7 @@
             "open_issues": 2,
             "owner": "trustedsec",
             "repo": "CS-Remote-OPs-BOF",
-            "stars": 1203,
+            "stars": 1204,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1803,7 +1803,7 @@
             "open_issues": 1,
             "owner": "Mr-Un1k0d3r",
             "repo": "SCShell",
-            "stars": 1680,
+            "stars": 1681,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2736,8 +2736,8 @@
             "id": 556184633,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-07-28T09:17:17Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-24T08:45:26Z",
+            "open_issues": 1,
             "owner": "CodeXTF2",
             "repo": "ScreenshotBOF",
             "stars": 508,
@@ -3718,7 +3718,7 @@
             "open_issues": 5,
             "owner": "kyleavery",
             "repo": "AceLdr",
-            "stars": 1040,
+            "stars": 1041,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3917,7 +3917,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13069,
+            "stars": 13068,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -3959,7 +3959,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13069,
+            "stars": 13068,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4449,7 +4449,7 @@
             "open_issues": 15,
             "owner": "stephenfewer",
             "repo": "ReflectiveDLLInjection",
-            "stars": 3394,
+            "stars": 3395,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -5001,7 +5001,7 @@
             "open_issues": 3,
             "owner": "GeorgePatsias",
             "repo": "ScareCrow-CobaltStrike",
-            "stars": 462,
+            "stars": 461,
             "topics": [
               "bypass-antivirus",
               "cobaltstrike-cna",
@@ -5836,7 +5836,7 @@
             "open_issues": 10,
             "owner": "DeEpinGh0st",
             "repo": "Erebus",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "cobaltstrike"
             ]
@@ -7573,7 +7573,7 @@
             "open_issues": 5,
             "owner": "aeverj",
             "repo": "NimShellCodeLoader",
-            "stars": 704,
+            "stars": 705,
             "topics": [
               "evasion-attack",
               "nim",
@@ -7796,7 +7796,7 @@
             "open_issues": 1,
             "owner": "mgeeky",
             "repo": "ShellcodeFluctuation",
-            "stars": 1142,
+            "stars": 1144,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -9020,11 +9020,11 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T11:21:20Z",
+            "last_commit": "2026-11-24T11:20:47Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
-            "stars": 754,
+            "stars": 757,
             "topics": [
               "cobalt-strike",
               "cobaltstrike",
@@ -9157,7 +9157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:22:18.282Z",
+    "last_updated": "2026-11-24T12:57:57.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9169,7 +9169,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4468,
+      "stars": 4469,
       "topics": [
         "cobalt-strike",
         "redteam",
