@@ -640,7 +640,7 @@
             "open_issues": 1,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1927,
+            "stars": 1928,
             "topics": [
               "bof",
               "c",
@@ -735,7 +735,7 @@
             "open_issues": 0,
             "owner": "EncodeGroup",
             "repo": "BOF-RegSave",
-            "stars": 220,
+            "stars": 222,
             "topics": [
               "beacon",
               "bof",
@@ -972,7 +972,7 @@
             "open_issues": 1,
             "owner": "trustedsec",
             "repo": "CS-Situational-Awareness-BOF",
-            "stars": 1927,
+            "stars": 1928,
             "topics": [
               "bof",
               "c",
@@ -1255,7 +1255,7 @@
             "open_issues": 3,
             "owner": "Cobalt-Strike",
             "repo": "bof-vs",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -1803,7 +1803,7 @@
             "open_issues": 1,
             "owner": "Mr-Un1k0d3r",
             "repo": "SCShell",
-            "stars": 1684,
+            "stars": 1685,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2273,7 +2273,7 @@
             "open_issues": 0,
             "owner": "netero1010",
             "repo": "ServiceMove-BOF",
-            "stars": 306,
+            "stars": 307,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2483,7 +2483,7 @@
             "open_issues": 0,
             "owner": "netero1010",
             "repo": "RDPHijack-BOF",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -2525,7 +2525,7 @@
             "open_issues": 0,
             "owner": "netero1010",
             "repo": "RDPHijack-BOF",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -4102,7 +4102,7 @@
             "open_issues": 43,
             "owner": "k8gege",
             "repo": "Ladon",
-            "stars": 5347,
+            "stars": 5348,
             "topics": [
               "brute-force",
               "exp",
@@ -5922,7 +5922,7 @@
             "open_issues": 3,
             "owner": "bluscreenofjeff",
             "repo": "AggressorScripts",
-            "stars": 901,
+            "stars": 902,
             "topics": [
               "aggressor-scripts",
               "beacon",
@@ -6072,7 +6072,7 @@
             "open_issues": 3,
             "owner": "harleyQu1nn",
             "repo": "AggressorScripts",
-            "stars": 1526,
+            "stars": 1527,
             "topics": [
               "aggressor",
               "aggressor-scripts",
@@ -6226,7 +6226,7 @@
             "open_issues": 2,
             "owner": "Und3rf10w",
             "repo": "Aggressor-scripts",
-            "stars": 414,
+            "stars": 413,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:42.747Z"
@@ -6268,7 +6268,7 @@
             "open_issues": 2,
             "owner": "QAX-A-Team",
             "repo": "CobaltStrike-Toolset",
-            "stars": 596,
+            "stars": 598,
             "topics": [
               "a-team",
               "aggressor-scripts",
@@ -9020,7 +9020,7 @@
             "id": 189243571,
             "language": "REXX",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T11:21:14Z",
+            "last_commit": "2026-11-27T11:22:15Z",
             "open_issues": 2,
             "owner": "drb-ra",
             "repo": "C2IntelFeeds",
@@ -9056,7 +9056,7 @@
             "open_issues": 28,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3079,
+            "stars": 3081,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9088,7 +9088,7 @@
             "open_issues": 28,
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3079,
+            "stars": 3081,
             "topics": [
               "anti-virus",
               "dfir",
@@ -9157,7 +9157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:33:33.553Z",
+    "last_updated": "2026-11-27T11:28:45.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome CobaltStrike Resources",
@@ -9169,7 +9169,7 @@
       "open_issues": 0,
       "owner": "zer0yu",
       "repo": "Awesome-CobaltStrike",
-      "stars": 4469,
+      "stars": 4470,
       "topics": [
         "cobalt-strike",
         "redteam",
